@@ -58,6 +58,7 @@ var listaCarros = "i30;x1;edge;sonata;santa fé";
 console.log(listaCarros.split(';')); // resultado = uma lista de carros
 
 /*
+	Considerações finais:
 	Existem várias outras operações que não foram usadas aqui.
 	veja aqui:
 		http://www.w3schools.com/jsref/jsref_obj_string.asp
