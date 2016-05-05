@@ -1,15 +1,14 @@
 /*
+	SOBRE OBJETO STRING:
 	Edney Roldão - 04/05/2016
-
-	String Object.
-
-	- Uma string é composta por uma sequência de 0 ou  mais caracteres.
-	
-	- São imutáveis, ou seja, precisa de uma operação de atribuição para ser alterada.
-	
-	- Podem ser declaradas com aspas simples ou duplas.
-		Isso elimina a barra de scape presente em outras linguagens,
-		basta intercalar entre aspas duplas e simples.
+		String Object.
+		- Uma string é composta por uma sequência de 0 ou  mais caracteres.
+		
+		- São imutáveis, ou seja, precisa de uma operação de atribuição para ser alterada.
+		
+		- Podem ser declaradas com aspas simples ou duplas.
+			Isso elimina a barra de scape presente em outras linguagens,
+			basta intercalar entre aspas duplas e simples.
 */
 
 var texto = 'aula de string object na linguagem javascript';
@@ -58,8 +57,8 @@ var listaCarros = "i30;x1;edge;sonata;santa fé";
 console.log(listaCarros.split(';')); // resultado = uma lista de carros
 
 /*
-	Considerações finais:
 	Existem várias outras operações que não foram usadas aqui.
-	veja aqui:
-		http://www.w3schools.com/jsref/jsref_obj_string.asp
+	saiba mais em:
+		link 01: http://www.w3schools.com/jsref/jsref_obj_string.asp
+		link 02: http://www.javascripture.com/String
 */

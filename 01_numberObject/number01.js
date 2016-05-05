@@ -1,11 +1,11 @@
 /*
+	OBJETO NUMBER
 	Edney Roldão - 04/05/2016.
+		Number API.
 
-	Number API.
-
-	Só existe um tipo de numérico na linguagem js.
-	IEEE (standard for floting-point)
-	binary64 ou Double Precision
+		Só existe um tipo de numérico na linguagem js.
+		IEEE (standard for floting-point)
+		binary64 ou Double Precision
 */
 
 // criando um variável do tipo Nubem
@@ -38,7 +38,8 @@ console.log(3 / 0); // resutado = infinity
  as operações subsequentes sendo difícil de identificar onde está o erro. */
 console.log("javascript" * 10); // resultado = NaN
 
-/*
-	Considerações finais:
-		No js também temos a API Math para se trabalhar com numeros.
-*/ 
+/* Veja mais sobre Number Object em: http://www.javascripture.com/Number */
+
+
+
+/* No próximo exemplo vamos ver um pouco da API Math */
