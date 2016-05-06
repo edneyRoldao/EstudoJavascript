@@ -11,7 +11,9 @@ Os conceitos apresentados aqui são condições sine qua non para se programar c
 Tutorial youtube - Rodrigo Branas - Desvendando a linguagem javascript - excelente
 <br/>
 https://www.youtube.com/user/rodrigobranas
-<br/>
+<br/><br/>
 Tutorial youtube - Universidade XTI - este voltado mais para a API DOM.
-<br/>
+<br/><br/>
 MEAN full stack javascript para aplicações web - Flávio Almeida - Casa do Código
+<br/><br/>
+Learning JavaScript Design Pattern - A book by Addy Osmani - Volume 1.6.2 - 2015
