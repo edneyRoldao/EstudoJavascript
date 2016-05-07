@@ -17,3 +17,7 @@ Tutorial youtube - Universidade XTI - este voltado mais para a API DOM.
 MEAN full stack javascript para aplicações web - Flávio Almeida - Casa do Código
 <br/><br/>
 Learning JavaScript Design Pattern - A book by Addy Osmani - Volume 1.6.2 - 2015
+<br/><br/>
+JavaScript Guide
+<br/>
+https://developer.mozilla.org/en/docs/Web/JavaScript/Guide
