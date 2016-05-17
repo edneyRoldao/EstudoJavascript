@@ -57,6 +57,19 @@ var jogadoresVerdao = jogadores.filter(function(elemento) {
 console.log(jogadoresVerdao);
 console.log();
 
+
+
+/* OBS: No filter podemos recuperar um elemento especifico, ao invés de um array.
+		Isso é muito útil quando estamos trabalhando com atributos únicos */
+
+var jogadorPalmeiras = jogadores.filter(function(elemento) {
+	return elemento.time == 'palmeiras'; // Atenção aqui: não temos uma superComparacao, pois agora é retornado um objeto no lugar de um array de objetos
+})[0]; // veja aqui que definimos a posição (index) que desejamos recuperar
+console.log(jogadorPalmeiras); // vai retornar o Gabriel Jesus. Ele é o primeiro jogador do palmeiras que aparece na lista.
+console.log();
+
+
+
 ////////// -  ITERANDO EM UM ARRAY COM EVERY  - ///////////////////////
 
 /* O every retorna um true se todos os elementos do array atenderem uma mesma condição, 
