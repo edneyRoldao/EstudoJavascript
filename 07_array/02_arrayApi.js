@@ -71,4 +71,4 @@ var carros3 = carros2.split(" - ");
 	console.log(typeof carros3);
 	console.log( carros3 );
 
-
+/* No próximo exemplo vamos conhecer sobre as formas de iterar um array (lambdas, funções de callback) */
